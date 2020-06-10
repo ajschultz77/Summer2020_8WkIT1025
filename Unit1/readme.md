@@ -1,7 +1,7 @@
 # Executive Summary
 * Type your executive summary as if you were explaining your lab on an IT team
 
-The purpose of this executive summary is to demonstrate the IT team how to use github in lab 1. It allows groups of developers to collaborate on the same documents (often source code) simultaneously and without over-riding each other’s work.
+The purpose of this executive summary is to demonstrate the IT team how to use github in lab 1. It allows a group of developers to collaborate on the same documents (often source code) simultaneously and without over-riding each other’s work or workflow.
 
 **A GitHub workflow can be condensed into Branching** - *Commits - Pull Requests - Collaboration - Merge.*
 
