@@ -3,7 +3,7 @@
 
 The purpose of this executive summary is to demonstrate the IT team how to use github in lab 1. It allows groups of developers to collaborate on the same documents (often source code) simultaneously and without over-riding each other’s work.
 
-**A GitHub workflow can be condensed into Branching** - *Commits - Pull Requests - Collaboration - Merge. 
+**A GitHub workflow can be condensed into Branching** - *Commits - Pull Requests - Collaboration - Merge.*
 
 *Being able to navigate, create a folder(s), screen capture and upload an image on github.*
 
