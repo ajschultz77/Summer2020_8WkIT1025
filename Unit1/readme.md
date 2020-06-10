@@ -1,9 +1,13 @@
 # Executive Summary
 * Type your executive summary as if you were explaining your lab on an IT team
 
-The purpose of this executive summary is to demonstrate the IT team how to use github in lab 1. It allows groups of developers to collaborate on the same documents (often source code) simultaneously and without over-riding each other’s work.  Being able to navigate, create a folder(s), screen capture and upload an image on github. This way you can share this information to your private audience for collaboration.
+The purpose of this executive summary is to demonstrate the IT team how to use github in lab 1. It allows groups of developers to collaborate on the same documents (often source code) simultaneously and without over-riding each other’s work.
 
-<p><strong>Please include attribution to Core dna with this graphic.</strong><br /><br /><a href='https://www.coredna.com/blogs/what-is-git-and-github-part-two'><img src='http://www.coredna.com/web_images/What-is-Git-Infographic.png' alt='What is GIT and GitHub' width='900px' border='0' /></a></p>
+**A GitHub workflow can be condensed into Branching** - *Commits - Pull Requests - Collaboration - Merge. 
+
+*Being able to navigate, create a folder(s), screen capture and upload an image on github.*
+
+*This way information can be shared privately or public.*
 
 # Information System Components  
 
