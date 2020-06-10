@@ -5,9 +5,7 @@ The purpose of this executive summary is to demonstrate the IT team how to use g
 
 **A GitHub workflow can be condensed into Branching** - *Commits - Pull Requests - Collaboration - Merge.*
 
-*Being able to navigate, create a folder(s), screen capture and upload an image on github.*
-
-*This way information can be shared privately or public.*
+*This information can be shared privately or public and be able to navigate, create a folder(s), screen capture(s) and upload image(s) on github.*
 
 # Information System Components  
 
